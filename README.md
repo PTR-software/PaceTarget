@@ -77,7 +77,13 @@ Don't use **Settings → Set Position** after the recording has already started 
 
 ## Screenshots
 
-See the [screenshots/](screenshots/) folder for example screenshots. If you'd like to add screenshots for your device, see [screenshots/README.md](screenshots/README.md).
+![Distance menu](screenshots/distance-menu.png)
+![Number entry](screenshots/number-entry.png)
+![GPS acquire](screenshots/gps-acquire.png)
+![Start confirm](screenshots/start-confirm.png)
+![Run screen](screenshots/run-screen.png)
+
+Add your own screenshots to the [`screenshots/`](screenshots/) folder — contributions showing the app on other Garmin devices are especially welcome!
 
 ## Real device
 
