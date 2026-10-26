@@ -75,6 +75,10 @@ The simulator has no manual speed slider. To feed it a known, exact pace:
 
 Don't use **Settings → Set Position** after the recording has already started — it registers as an instant, enormous distance jump. See `CHANGELOG.md` for more simulator gotchas.
 
+## Screenshots
+
+See the [screenshots/](screenshots/) folder for example screenshots. If you'd like to add screenshots for your device, see [screenshots/README.md](screenshots/README.md).
+
 ## Real device
 
 Primary test hardware is a **Garmin Venu 3**. Sideloading and Garmin Connect sync haven't been verified end-to-end yet as of the last changelog entry — check `CHANGELOG.md` for current status before assuming it works.
