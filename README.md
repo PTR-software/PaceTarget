@@ -77,15 +77,23 @@ Don't use **Settings → Set Position** after the recording has already started 
 
 ## Screenshots
 
-![screenshot-01](screenshots/screenshot-01.png)
-![screenshot-02](screenshots/screenshot-02.png)
-![screenshot-03](screenshots/screenshot-03.png)
-![screenshot-04](screenshots/screenshot-04.png)
-![screenshot-05](screenshots/screenshot-05.png)
-![screenshot-06](screenshots/screenshot-06.png)
-![screenshot-07](screenshots/screenshot-07.png)
-![screenshot-08](screenshots/screenshot-08.png)
-![screenshot-09](screenshots/screenshot-09.png)
+<table>
+  <tr>
+    <td><img src="screenshots/screenshot-01.png" width="140" alt="screenshot-01"></td>
+    <td><img src="screenshots/screenshot-02.png" width="140" alt="screenshot-02"></td>
+    <td><img src="screenshots/screenshot-03.png" width="140" alt="screenshot-03"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screenshot-04.png" width="140" alt="screenshot-04"></td>
+    <td><img src="screenshots/screenshot-05.png" width="140" alt="screenshot-05"></td>
+    <td><img src="screenshots/screenshot-06.png" width="140" alt="screenshot-06"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/screenshot-07.png" width="140" alt="screenshot-07"></td>
+    <td><img src="screenshots/screenshot-08.png" width="140" alt="screenshot-08"></td>
+    <td><img src="screenshots/screenshot-09.png" width="140" alt="screenshot-09"></td>
+  </tr>
+</table>
 
 Add your own screenshots to the [`screenshots/`](screenshots/) folder — contributions showing the app on other Garmin devices are especially welcome!
 
