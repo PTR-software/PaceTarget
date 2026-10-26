@@ -1,0 +1,22 @@
+<strings>
+    <string id="AppName">Pace Target</string>
+
+    <string id="MenuDistance5k">5K</string>
+    <string id="MenuDistance10k">10K</string>
+    <string id="MenuDistanceHalf">Half Marathon</string>
+    <string id="MenuDistanceMarathon">Marathon</string>
+    <string id="MenuDistanceCustom">Custom Distance</string>
+
+    <string id="LabelRequiredPace">Req Pace</string>
+    <string id="LabelCurrentPace">Cur Pace</string>
+    <string id="LabelDistance">Dist</string>
+    <string id="LabelDelta">Delta</string>
+    <string id="LabelAcquiringGps">Acquiring GPS...</string>
+    <string id="LabelActivateGpsTitle">Activate GPS?</string>
+    <string id="LabelReadyTitle">Ready</string>
+
+    <string id="LabelConfirmSave">Save Run?</string>
+    <string id="LabelSave">Save</string>
+    <string id="LabelDiscard">Discard</string>
+    <string id="LabelBack">Back</string>
+</strings>
